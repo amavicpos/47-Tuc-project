@@ -1,5 +1,5 @@
 # 47 Tuc Project
-This repository contains coursework and data related to the 47 Tuc project, involving astrophysics and data analysis centred around the 47 Tucanae globular cluster. The primary file is a Jupyter Notebook for Python-based analysis.
+This repository contains a coursework project involving astrophysics and data analysis centred around the 47 Tucanae globular cluster. The primary file is a Jupyter Notebook for Python-based analysis.
 
 ## Contents
 - `data/`: Directory containing relevant data files.
